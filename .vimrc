@@ -6,4 +6,4 @@ highlight colorcolumn ctermbg=darkblue
 set textwidth=79
 
 syntax on
-colorscheme alduin
+colorscheme seoul256
