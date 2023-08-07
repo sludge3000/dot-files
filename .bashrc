@@ -41,3 +41,8 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+# Poetry Environment Variable
+#
+# Must be at the end of .bashrc
+export PATH="/home/sammy/.local/bin:$PATH"
